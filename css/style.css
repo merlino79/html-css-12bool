@@ -1,6 +1,9 @@
 [class*="col-"]{
   background-color: lightpink;
   border: 1px solid black;
+  height: 191px;
+   line-height: 191px;
+
 }
 
 
@@ -9,14 +12,6 @@
 
 }
 
- .col-1{
-   height: 191px;
-   line-height: 191px;
- }
+
 
  /* seconda sezione  */
- .col-12{
-   height: 194px;
-   line-height: 194px;
-   border-radius: 10px;
- }
