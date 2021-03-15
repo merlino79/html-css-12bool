@@ -4,8 +4,8 @@
 }
 
 
-.col-1{
-  height: 190px;
-  background-color: lightcyan;
+.col-6{
+  height: 300px;
+  background-color: bisque;
   border: 1px solid black;
 }
