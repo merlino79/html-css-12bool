@@ -1,11 +1,21 @@
-.debug [class*="col-"]{
-  background-color: lightgray;
+[class*="col-"]{
+  background-color: lightpink;
   border: 1px solid black;
 }
 
 
-.col-6{
-  height: 300px;
-  background-color: bisque;
-  border: 1px solid black;
+.container{
+  text-align: center;
+
 }
+
+ .col-1{
+   height: 191px;
+   line-height: 191px;
+ }
+
+ /* seconda sezione  */
+ .col-12{
+   height: 194px;
+   border-bottom: 1px solid black;
+ }
