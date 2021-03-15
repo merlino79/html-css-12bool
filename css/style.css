@@ -17,5 +17,6 @@
  /* seconda sezione  */
  .col-12{
    height: 194px;
-   border-bottom: 1px solid black;
+   line-height: 194px;
+   border-radius: 10px;
  }
