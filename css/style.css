@@ -2,3 +2,10 @@
   background-color: lightgray;
   border: 1px solid black;
 }
+
+
+.col-1{
+  height: 190px;
+  background-color: lightcyan;
+  border: 1px solid black;
+}
