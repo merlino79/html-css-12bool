@@ -2,9 +2,9 @@
   background-color: lightpink;
   border: 1px solid black; 
   height: 191px;
-   line-height: 191px;
-   text-align: center;
-   padding: 5px;
+  line-height: 191px;
+  text-align: center;
+  padding: 5px;
 
 }
 
@@ -18,6 +18,6 @@
   background-color: #F08080;
   border: 1px solid white;
   /* border-bottom: 1px solid black; */
-  width: cal(50% / 3 - 2px -2px );
+  /* width: cal(50% / 3 - 2px -2px ); */
   
 }
