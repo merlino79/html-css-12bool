@@ -1,0 +1,4 @@
+.debug [class*="col-"]{
+  background-color: lightgray;
+  border: 1px solid black;
+}
