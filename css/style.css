@@ -11,6 +11,12 @@
 
 
 
- /* seconda sezione  */
-
- 
+.container>.col-6>.container [class*="col-"]{
+  height: 191px;
+  margin: 2px ;
+  background-color: #F08080;
+  border: 1px solid white;
+  border-bottom: 1px solid black;
+  width: 100px;
+  
+}
