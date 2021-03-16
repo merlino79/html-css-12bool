@@ -23,8 +23,11 @@
   transform: translate(-50%, -50%);
 }
 
-.debug.container [class*="col-"] > .container.special{
-  margin: 1px;
+.debug.container [class*="col-"] > .container.special [class*="col-"] {
+ 
+  border: 1px solid white;
+  background-color: salmon;
+ 
   
 }
 
