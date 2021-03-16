@@ -24,7 +24,7 @@
 }
 
 .debug.container [class*="col-"] > .container.special{
-  background-color: aquamarine;
+  margin: 1px;
   
 }
 
